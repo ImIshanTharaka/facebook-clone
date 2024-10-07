@@ -16,6 +16,36 @@ export default function RightPane() {
             <b>Harry Bond</b> having birthday today..!
           </span>
         </div>
+        <div className="friendList">
+          <li className="onlineFriend">
+            <div className="onlineFriendImageContainer">
+              <img src="/images/4.jfif" alt="" className="onlineFriendImg" />
+              <span className="onlineStatus"></span>
+            </div>
+            <span className="onlineFriendName">Brad John</span>
+          </li>
+          <li className="onlineFriend">
+            <div className="onlineFriendImageContainer">
+              <img src="/images/4.jfif" alt="" className="onlineFriendImg" />
+              <span className="onlineStatus"></span>
+            </div>
+            <span className="onlineFriendName">Brad John</span>
+          </li>
+          <li className="onlineFriend">
+            <div className="onlineFriendImageContainer">
+              <img src="/images/4.jfif" alt="" className="onlineFriendImg" />
+              <span className="onlineStatus"></span>
+            </div>
+            <span className="onlineFriendName">Brad John</span>
+          </li>
+          <li className="onlineFriend">
+            <div className="onlineFriendImageContainer">
+              <img src="/images/4.jfif" alt="" className="onlineFriendImg" />
+              <span className="onlineStatus"></span>
+            </div>
+            <span className="onlineFriendName">Brad John</span>
+          </li>
+        </div>
       </div>
     </div>
   );

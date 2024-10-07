@@ -25,15 +25,12 @@ export default function NavBar() {
         <div className="navbarIcons">
           <div className="navBarIcon">
             <PersonIcon />
-            <span className="icontag">3</span>
           </div>
           <div className="navBarIcon">
             <MessageIcon />
-            <span className="icontag">5</span>
           </div>
           <div className="navBarIcon">
             <SettingsIcon />
-            <span className="icontag">1</span>
           </div>
         </div>
         <img src="/images/1.jpg" alt="" className="profilePicImage" />
