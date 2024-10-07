@@ -1,5 +1,6 @@
 # Facebook-clone
 A Facebook UI clone
+![alt text](https://github.com/ImIshanTharaka/facebook-clone/blob/main/facebook%20clone.jpg)
 
 ## What I have Learned 
 * Use HTML, CSS, JavaScript for front end web UI development
