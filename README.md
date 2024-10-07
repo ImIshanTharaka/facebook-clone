@@ -14,7 +14,7 @@ A Facebook UI clone
 * React
 
 ## How to run the application
-* Enter "npm stast" in the terminal
+* Enter "npm start" in the terminal
 
 
 
